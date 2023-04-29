@@ -15,3 +15,7 @@
 ## Pilha (LIFO - Last In First Out)
 
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png)
+
+## Arvore Binária
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
